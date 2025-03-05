@@ -3,7 +3,6 @@
 - I’m looking to collaborate on Linkdin,Github
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GouravSharma26&theme=gruvbox)](https://git.io/streak-stats)
 
 <!---
 GouravSharma26/GouravSharma26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
