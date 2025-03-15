@@ -46,6 +46,20 @@
 
 ---
 
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gourav259?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/gourav259/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/gourav-sharma-4919862a7" target="_blank">
