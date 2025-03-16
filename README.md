@@ -72,7 +72,7 @@
   <a href="https://x.com/GouavsHarma259" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="[https://your-portfolio.com](https://portfolio-gouravsharma26s-projects.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/yourdiscordID" target="_blank">
