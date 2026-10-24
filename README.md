@@ -1,83 +1,67 @@
+<!-- ===================== HERO SECTION ===================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Gourav%20Sharma&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descAlignY=58&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2500&pause=800&color=2EF2B1&center=true&vCenter=true&width=550&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+GOURAV+SHARMA+%2F+SOFTWARE+ENGINEER;%3E+AI+%C2%B7+DATA+%C2%B7+APPLICATION+SECURITY" alt="Animated developer terminal"/>
-
-# Gourav Sharma
-
-### `Computer Science Engineer` · `Software Developer` · `AI Enthusiast`
-
-Building intelligent applications, reliable data systems, and tools that solve real engineering problems.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+things+that+solve+real+problems;Exploring+AI%2FML+and+intelligent+systems;Turning+data+into+useful+insights;Creating+secure+and+scalable+applications" alt="Typing SVG" />
+</a>
 
 <br/>
 
 <a href="https://github.com/GouravSharma26">
-<img src="https://img.shields.io/badge/GITHUB-2EF2B1?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-GouravSharma26-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/BUILDING-APPLICATIONS-161B22?style=for-the-badge&logo=codeforces&logoColor=2EF2B1" alt="Building applications"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20DATA-161B22?style=for-the-badge&logo=probot&logoColor=2EF2B1" alt="AI and data focus"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Software%20Engineering-7C3AED?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-06B6D4?style=for-the-badge" alt="Status"/>
 
 </div>
 
 ---
 
-## `01` / About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-<img align="right" width="140" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python icon"/>
+## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about building practical software and exploring intelligent systems.
+Hi! I'm **Gourav Sharma**, a Computer Science and Engineering student who enjoys building practical software, experimenting with AI, and solving engineering problems.
 
-My work spans full-stack development, AI-assisted applications, data engineering, and software security. I enjoy taking a project from architecture and implementation through validation and deployment.
+I like working across the development lifecycle—from designing applications and building backend systems to processing data and exploring intelligent solutions.
 
-- 🔭 Building AI-powered applications and developer tools.
-- 🧠 Exploring machine learning and intelligent automation.
-- 🗄️ Designing data pipelines and database-backed systems.
-- 🔐 Interested in static analysis and secure software development.
-- ⚙️ Focused on maintainable code, reliable systems, and continuous learning.
-
-<br clear="right"/>
+- 🔭 **Currently building:** AI-powered applications and developer tools.
+- 🧠 **Interested in:** Artificial Intelligence, Machine Learning, Data Engineering, and Software Security.
+- 🛠️ **Enjoy working with:** Python, C++, Django, React, and PostgreSQL.
+- 📊 **Exploring:** Data pipelines, analytics, intelligent automation, and applied ML.
+- 🎯 **Goal:** Build reliable, useful software and continuously improve as an engineer.
+- ⚡ **Mindset:** Learn by building, validate through testing, and improve through iteration.
 
 ---
 
-## `02` / Tech Arsenal
+<!-- ===================== TECH STACK ===================== -->
+
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" alt="Python"/></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="52" alt="C++"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="52" alt="JavaScript"/></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="52" alt="PostgreSQL"/></a>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Programming languages"/>
 
 ### Frontend & Backend
 
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="52" alt="React"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="52" alt="Django"/></a>
-<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="52" alt="Vite"/></a>
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="52" alt="Tailwind CSS"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="52" alt="HTML"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="52" alt="CSS"/></a>
+<img src="https://skillicons.dev/icons?i=react,django,vite,tailwind" alt="Web development"/>
 
-<br/>
+### Databases & Tools
 
-### Databases, Tools & Infrastructure
-
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="52" alt="PostgreSQL"/></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" alt="Docker"/></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="52" alt="VS Code"/></a>
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="52" alt="GitHub Actions"/></a>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode" alt="Databases and development tools"/>
 
 </div>
 
 ---
 
-## `03` / Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -85,107 +69,80 @@ My work spans full-stack development, AI-assisted applications, data engineering
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/01-AI%20%26%203D-0D1117?style=for-the-badge&labelColor=064E3B" alt="AI and 3D"/>
-<h2>🏠 RoomGenie AI</h2>
-<strong>AI-Assisted Interior Design</strong>
-</div>
+<h3>🏠 RoomGenie AI</h3>
 
-An interactive interior design platform that combines a 3D room editor with AI-generated design proposals and furniture placement workflows.
+An AI-assisted interior design application that combines interactive 3D room editing with intelligent design recommendations.
 
-**What makes it interesting**
+**Highlights**
+- Interactive 3D room editor.
+- AI-powered interior design proposals.
+- Furniture placement and room customization.
+- Backend validation and design-state management.
 
-- Interactive 3D room editing with Three.js.
-- AI interior-design agent with an adapter architecture.
-- Validated design proposals and controlled state updates.
-- Authentication and design ownership protections.
+**Tech:** React · Django · PostgreSQL · Three.js
 
-<br/>
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=react,django,postgres&theme=dark" height="35" alt="React, Django and PostgreSQL"/>
-
-<br/><br/>
-
-<a href="https://github.com/GouravSharma26/RoomGenie-ai"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2EF2B1?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore RoomGenie AI"/></a>
+<a href="https://github.com/GouravSharma26/RoomGenie-ai">
+<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="RoomGenie AI repository"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/02-APPLICATION%20SECURITY-0D1117?style=for-the-badge&labelColor=164E63" alt="Application security"/>
-<h2>🛡️ SymGuard</h2>
-<strong>Python Static Analysis Tool</strong>
-</div>
+<h3>🛡️ SymGuard</h3>
 
-A developer-focused security tool that detects potentially dangerous Python coding patterns and produces structured, source-aware findings.
+A Python-based static analysis tool designed to identify potentially dangerous coding patterns and communicate findings through a structured analysis workflow.
 
-**What makes it interesting**
+**Highlights**
+- Detection rules for security-sensitive code patterns.
+- Stable rule identifiers and source-location reporting.
+- Structured findings for downstream integrations.
+- Automated regression testing and CI workflows.
 
-- Rule-based detection of security-sensitive operations.
-- Stable rule identifiers with line and column information.
-- Structured findings for automated integrations.
-- Regression testing and GitHub Actions CI.
+**Tech:** Python · Static Analysis · Security · GitHub Actions
 
-<br/>
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=python,githubactions&theme=dark" height="35" alt="Python and GitHub Actions"/>
-
-<br/><br/>
-
-<a href="https://github.com/GouravSharma26/SymGuard"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2EF2B1?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore SymGuard"/></a>
+<a href="https://github.com/GouravSharma26/SymGuard">
+<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="SymGuard repository"/>
+</a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-<div align="center">
+<h3>🏦 BankFlow</h3>
 
-<img src="https://img.shields.io/badge/03-DATA%20ENGINEERING-0D1117?style=for-the-badge&labelColor=312E81" alt="Data engineering"/>
+A banking transaction ETL and analytics warehouse that transforms transaction data into validated, structured datasets for analytical reporting.
 
-<h2>🏦 BankFlow</h2>
+**Highlights**
+- Synthetic transaction data generation.
+- Validation, quarantine, and data contracts.
+- Warehouse loading and idempotent processing.
+- SQL analytics, reporting views, and reconciliation.
 
-<strong>Banking Transaction ETL & Analytics Warehouse</strong>
+**Tech:** Python · PostgreSQL · SQL · Docker
 
-A data engineering project that transforms synthetic banking transactions into validated datasets and analytical warehouse models, with an emphasis on consistency, reliable loading, and reconciliation.
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**01 / INGEST**
-
-Transaction generation and staging.
+<a href="https://github.com/GouravSharma26/BankFlow">
+<img src="https://img.shields.io/badge/View%20Repository-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="BankFlow repository"/>
+</a>
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**02 / VALIDATE**
+<h3>📚 E-Book Management System</h3>
 
-Data contracts, validation, and quarantine.
+A full-stack web application for an online book-shopping experience, combining a React frontend with a Django backend and relational database.
 
-</td>
-<td width="33%" align="center">
+**Highlights**
+- Full-stack application architecture.
+- Frontend and backend integration.
+- Database-backed application functionality.
+- Organized book-management workflows.
 
-**03 / ANALYZE**
+**Tech:** React · Django · PostgreSQL
 
-Warehouse models, reconciliation, and SQL reporting.
-
-</td>
-</tr>
-</table>
-
-<img src="https://skillicons.dev/icons?i=python,postgres,docker&theme=dark" height="40" alt="Python, PostgreSQL and Docker"/>
-
-<br/><br/>
-
-<a href="https://github.com/GouravSharma26/BankFlow"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-2EF2B1?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore BankFlow"/></a>
-
-</div>
+<a href="https://github.com/GouravSharma26/E-Book-System">
+<img src="https://img.shields.io/badge/View%20Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="E-Book Management System repository"/>
+</a>
 
 </td>
 </tr>
@@ -195,54 +152,53 @@ Warehouse models, reconciliation, and SQL reporting.
 
 ---
 
-## `04` / GitHub Statistics
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=GouravSharma26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EF2B1&icon_color=2EF2B1&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GouravSharma26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSharma26&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EF2B1&text_color=C9D1D9&langs_count=6" alt="Most-used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSharma26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=GouravSharma26&hide_border=true&background=0D1117&ring=2EF2B1&fire=06B6D4&currStreakLabel=2EF2B1&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=GouravSharma26&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `05` / Current Interests
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 🌐 Contribution Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-Intelligent%20Applications-0D1117?style=for-the-badge&logo=probot&logoColor=2EF2B1" alt="AI engineering"/>
-
-<img src="https://img.shields.io/badge/SECURITY-Developer%20Tools-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=2EF2B1" alt="Security tools"/>
-
-<img src="https://img.shields.io/badge/DATA-ETL%20%26%20Analytics-0D1117?style=for-the-badge&logo=postgresql&logoColor=2EF2B1" alt="Data engineering"/>
-
-<img src="https://img.shields.io/badge/ENGINEERING-Reliable%20Systems-0D1117?style=for-the-badge&logo=githubactions&logoColor=2EF2B1" alt="Software engineering"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GouravSharma26&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## `06` / Connect
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Have an interesting idea or project? Let's connect.**
+I'm always interested in learning, collaborating on interesting projects, and exploring new technologies.
 
-<br/>
-
-<a href="https://github.com/GouravSharma26"><img src="https://img.shields.io/badge/GitHub-FOLLOW%20MY%20WORK-161B22?style=for-the-badge&logo=github&logoColor=2EF2B1" alt="GitHub"/></a>
-
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://github.com/GouravSharma26">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:064E3B,100:0D1117&height=110&section=footer" alt="Footer"/>
-
-`LESS NOISE. MORE BUILDING.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
