@@ -194,18 +194,6 @@ A full-stack healthcare application designed to connect patients and doctors thr
 
 ---
 
-<!-- ==================== CONTRIBUTIONS ==================== -->
-
-## 🌐 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GouravSharma26&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
 <!-- ==================== CONNECT ==================== -->
 
 ## 🤝 Let's Connect
