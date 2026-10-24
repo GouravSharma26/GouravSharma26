@@ -1,67 +1,80 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Gourav%20Sharma&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descAlignY=58&descSize=17" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=Gourav%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descSize=16&descAlignY=58" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+things+that+solve+real+problems;Exploring+AI%2FML+and+intelligent+systems;Turning+data+into+useful+insights;Creating+secure+and+scalable+applications" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+commit+at+a+time;Engineering+AI-powered+applications;Designing+reliable+data+pipelines;Exploring+application+security+and+automation" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://github.com/GouravSharma26">
-<img src="https://img.shields.io/badge/GitHub-GouravSharma26-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-GouravSharma26-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Software%20Engineering-7C3AED?style=for-the-badge" alt="Focus"/>
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-06B6D4?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-7C3AED?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/Approach-Build%20%7C%20Test%20%7C%20Improve-06B6D4?style=for-the-badge" alt="Approach"/>
+
+<br/><br/>
+
+<a href="https://github.com/GouravSharma26?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-334155?style=flat-square&logo=github" alt="Explore repositories"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ==================== ABOUT ==================== -->
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Gourav Sharma**, a Computer Science and Engineering student who enjoys building practical software, experimenting with AI, and solving engineering problems.
+I'm **Gourav Sharma**, a Computer Science and Engineering student interested in building practical software systems, intelligent applications, and data-driven solutions.
 
-I like working across the development lifecycle—from designing applications and building backend systems to processing data and exploring intelligent solutions.
+I enjoy working across the development lifecycle—from designing application architectures and implementing backend services to building data pipelines and exploring AI-driven automation.
 
-- 🔭 **Currently building:** AI-powered applications and developer tools.
-- 🧠 **Interested in:** Artificial Intelligence, Machine Learning, Data Engineering, and Software Security.
-- 🛠️ **Enjoy working with:** Python, C++, Django, React, and PostgreSQL.
-- 📊 **Exploring:** Data pipelines, analytics, intelligent automation, and applied ML.
-- 🎯 **Goal:** Build reliable, useful software and continuously improve as an engineer.
-- ⚡ **Mindset:** Learn by building, validate through testing, and improve through iteration.
+- 🔭 **Building:** Full-stack applications, developer tools, and data engineering projects.
+- 🧠 **Exploring:** Artificial Intelligence, Machine Learning, application security, and analytics.
+- ⚙️ **Core technologies:** Python, C++, SQL, React, Django, and PostgreSQL.
+- 🏗️ **Engineering interests:** API design, data quality, automation, and reliable software systems.
+- 🎯 **Goal:** Build technically sound projects that solve real problems and demonstrate measurable value.
+
+> I believe good engineering is about more than making things work—it's about making them reliable, understandable, and maintainable.
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ==================== TECH STACK ==================== -->
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Programming languages"/>
 
-### Frontend & Backend
+### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,django,vite,tailwind" alt="Web development"/>
+<img src="https://skillicons.dev/icons?i=react,django,vite,tailwind,nodejs" alt="Frameworks and development tools"/>
 
-### Databases & Tools
+### Databases, Infrastructure & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode" alt="Databases and tools"/>
 
 </div>
 
+**Areas of interest**
+
+`Full-Stack Development` · `AI/ML` · `Data Engineering` · `Static Analysis` · `SQL Analytics` · `Automation`
+
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
+
+Projects selected to demonstrate different engineering capabilities, from application security and data pipelines to full-stack and AI-powered applications.
 
 <div align="center">
 
@@ -69,79 +82,88 @@ I like working across the development lifecycle—from designing applications an
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏠 RoomGenie AI</h3>
+### ⚒️ DevForge
 
-An AI-assisted interior design application that combines interactive 3D room editing with intelligent design recommendations.
+**AI-Assisted Developer Platform**
 
-**Highlights**
-- Interactive 3D room editor.
-- AI-powered interior design proposals.
-- Furniture placement and room customization.
-- Backend validation and design-state management.
+A developer-focused platform concept combining coding practice, interview preparation, and job-oriented career tools.
 
-**Tech:** React · Django · PostgreSQL · Three.js
+**Engineering focus**
+- Interactive coding experience.
+- Code execution integration.
+- AI-assisted resume workflows.
+- Asynchronous processing and API integration.
 
-<a href="https://github.com/GouravSharma26/RoomGenie-ai">
-<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="RoomGenie AI repository"/>
+**Stack:** React · Node.js · Redis · BullMQ
+
+<a href="https://github.com/GouravSharma26/DevForge">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="DevForge repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛡️ SymGuard</h3>
+### 🛡️ SymGuard
 
-A Python-based static analysis tool designed to identify potentially dangerous coding patterns and communicate findings through a structured analysis workflow.
+**Python Static Analysis & Security**
 
-**Highlights**
-- Detection rules for security-sensitive code patterns.
-- Stable rule identifiers and source-location reporting.
-- Structured findings for downstream integrations.
-- Automated regression testing and CI workflows.
+A static analysis tool that identifies potentially dangerous coding patterns and produces structured findings for developer security workflows.
 
-**Tech:** Python · Static Analysis · Security · GitHub Actions
+**Engineering focus**
+- Rule-based security checks.
+- Stable rule identifiers and source locations.
+- Structured findings and SARIF-oriented reporting.
+- Regression testing and CI automation.
+
+**Stack:** Python · Static Analysis · SARIF · GitHub Actions
 
 <a href="https://github.com/GouravSharma26/SymGuard">
-<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="SymGuard repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="SymGuard repository"/>
 </a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏦 BankFlow</h3>
+### 🏦 BankFlow
 
-A banking transaction ETL and analytics warehouse that transforms transaction data into validated, structured datasets for analytical reporting.
+**Banking Transaction ETL & Analytics Warehouse**
 
-**Highlights**
+A data engineering project that transforms synthetic banking transactions into validated datasets for reliable analytical reporting.
+
+**Engineering focus**
 - Synthetic transaction data generation.
-- Validation, quarantine, and data contracts.
-- Warehouse loading and idempotent processing.
-- SQL analytics, reporting views, and reconciliation.
+- Data validation, quarantine, and contracts.
+- Idempotent warehouse loading.
+- Reconciliation and analytical SQL views.
 
-**Tech:** Python · PostgreSQL · SQL · Docker
+**Stack:** Python · PostgreSQL · SQL · Docker
 
 <a href="https://github.com/GouravSharma26/BankFlow">
-<img src="https://img.shields.io/badge/View%20Repository-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="BankFlow repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="BankFlow repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📚 E-Book Management System</h3>
+### 🏥 HealthTech
 
-A full-stack web application for an online book-shopping experience, combining a React frontend with a Django backend and relational database.
+**Healthcare Appointment & Consultation Platform**
 
-**Highlights**
-- Full-stack application architecture.
-- Frontend and backend integration.
-- Database-backed application functionality.
-- Organized book-management workflows.
+A full-stack healthcare application designed to connect patients and doctors through appointment management, doctor discovery, and location-aware features.
 
-**Tech:** React · Django · PostgreSQL
+**Engineering focus**
+- Patient and doctor workflows.
+- Appointment scheduling and history.
+- Doctor discovery and map integration.
+- Ratings, reviews, and authentication.
 
-<a href="https://github.com/GouravSharma26/E-Book-System">
-<img src="https://img.shields.io/badge/View%20Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="E-Book Management System repository"/>
+**Stack:** React · Django · PostgreSQL · Leaflet
+
+<a href="https://github.com/GouravSharma26/HealthTechWebsite">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="HealthTech repository"/>
 </a>
 
 </td>
@@ -150,9 +172,11 @@ A full-stack web application for an online book-shopping experience, combining a
 
 </div>
 
+> **Also exploring:** RoomGenie AI — an AI-assisted interior design project featuring interactive 3D room editing and design recommendations.
+
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## 📊 GitHub Analytics
 
@@ -160,45 +184,51 @@ A full-stack web application for an online book-shopping experience, combining a
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=GouravSharma26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSharma26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSharma26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=GouravSharma26&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=GouravSharma26&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
 ## 🌐 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GouravSharma26&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GouravSharma26&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ==================== CONNECT ==================== -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always interested in learning, collaborating on interesting projects, and exploring new technologies.
+Interested in software engineering, AI-powered applications, data systems, and meaningful technical collaborations.
+
+<br/><br/>
 
 <a href="https://github.com/GouravSharma26">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<!-- Replace the URL below with your actual LinkedIn profile -->
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
+*Building, learning, and improving with every project.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" alt="Footer"/>
 
 </div>
